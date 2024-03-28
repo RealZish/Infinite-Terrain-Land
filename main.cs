@@ -6,7 +6,7 @@ namespace Main
     {
         static void Main(string[] args)
         {
-            Console.Writeline("Hello World!");
+            global::System.Object value = Console.Writeline("Hello World!");
         }
     }
 }
